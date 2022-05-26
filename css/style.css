@@ -1,0 +1,43 @@
+
+ h2{
+     text-align: center;
+ }
+
+ h3{
+
+ }
+ 
+ ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:aquamarine;
+
+  }
+ 
+ li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  * {
+      box-sizing: border-box;
+  }
+
+  #card-section{
+      display: flex;
+  }
+
+  .card{
+    float: left;
+    width: 33.33%;
+    padding: 100px;
+    text-align: center;
+    
+  }
